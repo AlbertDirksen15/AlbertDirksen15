@@ -20,7 +20,7 @@ I build practical software projects and learning tools with a focus on web devel
 ## Featured projects
 
 - [CodeTrainer](https://github.com/AlbertDirksen15/CodeTrainer) — code memorization and typing practice application.
-- [Data Science Roadmap](https://github.com/AlbertDirksen15/Data-Science-Roadmap) — structured data science and machine learning learning repository.
+- [Noma](https://github.com/AlbertDirksen15/Noma) — software project focused on a desktop-oriented application and launcher workflow.
 
 ## Codewars
 
