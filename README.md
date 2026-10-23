@@ -19,9 +19,9 @@ I build practical software projects and learning tools with a focus on web devel
 
 ## Featured projects
 
-- **[CodeTrainer — Live Demo](https://albertdirksen15.github.io/CodeTrainer/)** — code memorization and typing practice application.
-- **[Noma — Live Demo](https://albertdirksen15.github.io/AlbertApps_Public/noma/demo/)** — notes, projects, goals, and personal organization.
-- **[LearningTracker — Live Demo](https://albertdirksen15.github.io/AlbertApps_Public/learningtracker/)** — track learning progress and activities.
+- **[CodeTrainer — Live Demo](https://albertdirksen15.github.io/web_App_spublik/CodeTrainer/)** — code memorization and typing practice application.
+- **[Noma — Live Demo](https://albertdirksen15.github.io/web_App_spublik/noma/demo/)** — notes, projects, goals, and personal organization.
+- **[LearningTracker — Live Demo](https://albertdirksen15.github.io/web_App_spublik/learningtracker/)** — track learning progress and activities.
 
 ## Codewars
 
